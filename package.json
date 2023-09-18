@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "xyz.noplagi.usrpfp.theme",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "Unofficial way to install USRPFP to replugged using css db",
   "engines": {
     "node": ">=18.0.0",
     "pnpm": ">=8.0.0"
@@ -15,8 +15,8 @@
     "lint:fix": "prettier ./src --write"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "NoPlagiarism",
+  "license": "WTFPL",
   "devDependencies": {
     "@parcel/config-default": "^2.9.3",
     "@parcel/core": "^2.9.3",
